@@ -3,7 +3,7 @@ CRUD operation for Contact
 
 ## Project Strucutre:
 
-#main src
+## Main src
 * Controller
 * ServiceInterface
 * ServiceImplementation
@@ -15,8 +15,8 @@ CRUD operation for Contact
 
 
 ## RUN Application:
-* clone project from git hub
-* build project with "mvnw clean install"
-* it will generate .War file of project.
+* Clone project from git hub
+* Build project with "mvnw clean install"
+* It will generate .War file of project.
 * Copy war file to webapp folder of Tomcat application server
-* Restart tomcat
+* Restart Tomcat
