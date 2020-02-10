@@ -1,6 +1,10 @@
 # CRUD_Bharat
 CRUD operation for Contact
 
+## Prerequisite:
+* H2 database on local machine
+* JDK8
+
 ## Project Strucutre:
 
 ## Main src
@@ -9,9 +13,7 @@ CRUD operation for Contact
 * ServiceImplementation
 * Repository
 * Entity
-
-## Test
-* Service Layer Test
+* Test: Service Layer Test
 
 
 ## RUN Application:
